@@ -497,7 +497,7 @@
       },
       {
         "netclass": "12V",
-        "pattern": "Net-(J16-Pin_1)"
+        "pattern": "Net-(J16-Pin_2)"
       }
     ]
   },
