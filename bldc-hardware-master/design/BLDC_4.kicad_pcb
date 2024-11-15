@@ -23403,7 +23403,7 @@
 	(footprint "vesc:7466103"
 		(layer "B.Cu")
 		(uuid "2a28efb4-9799-4eda-bccc-6e617f71fb7b")
-		(at 73.5 119 180)
+		(at 73.3 119 180)
 		(descr "7466103-3")
 		(tags "Connector")
 		(property "Reference" "J5"
