@@ -510,7 +510,7 @@
 			(pintype "passive")
 			(uuid "20b4a1c2-f075-4d10-aad3-45f21e2b2bb2")
 		)
-		(model "walter/smd_cap/c_2220.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/smd_cap/c_2225.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1168,7 +1168,7 @@
 			(pintype "passive")
 			(uuid "7f9cc0e2-f654-4aec-8f32-f80ca0a4b480")
 		)
-		(model "walter/conn_jst-ph/b6b-ph-kl.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/conn_jst-ph/b6b-ph-kl.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1196,7 +1196,7 @@
 			)
 		)
 		(property "Value" "SWD"
-			(at 0 3.59918 -90)
+			(at 0 3.59918 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5fcce1b4-dc1c-4f51-bbfb-d0ab3167a8a8")
@@ -1208,7 +1208,7 @@
 			)
 		)
 		(property "Footprint" "CRF1:MICRO_JST_6"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "90cd441c-05d2-4541-803d-9146bf8edc95")
@@ -1220,7 +1220,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "93651d58-fa70-4e63-87bc-b4e88ce9c172")
@@ -1232,7 +1232,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b80e9ca6-a332-4392-bfcb-89f8dcc66fa5")
@@ -1383,7 +1383,7 @@
 			(pintype "passive+no_connect")
 			(uuid "59752fc8-b91d-41f2-8eba-5734a43a732d")
 		)
-		(model "walter/conn_jst-ph/b6b-ph-kl.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/conn_jst-ph/b6b-ph-kl.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1820,7 +1820,7 @@
 			(pintype "passive")
 			(uuid "38d46466-c080-4eaf-984e-2bb1b3174a89")
 		)
-		(model "walter/smd_trans/d2-pak-7.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/d2-pak-7.wrl"
 			(offset
 				(xyz 0 1.777999973 0)
 			)
@@ -2024,7 +2024,7 @@
 			(pintype "passive")
 			(uuid "5924e65a-85ed-48df-89a8-c605879e4283")
 		)
-		(model "walter/smd_trans/d2-pak-7.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/d2-pak-7.wrl"
 			(offset
 				(xyz 0 1.777999973 0)
 			)
@@ -2227,7 +2227,7 @@
 			(pintype "passive")
 			(uuid "580469c2-1aac-4b53-9b96-42d8bc0c8929")
 		)
-		(model "walter/smd_trans/d2-pak-7.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/d2-pak-7.wrl"
 			(offset
 				(xyz 0 1.777999973 0)
 			)
@@ -2974,7 +2974,7 @@
 			(pintype "power_in")
 			(uuid "0265d771-586a-4854-a872-e3a3353e0d3b")
 		)
-		(model "walter/smd_lqfp/lqfp-64.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/lqfp-64.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3619,7 +3619,7 @@
 			(zone_connect 2)
 			(uuid "109c2a14-7a5a-4ba7-9fcf-bed4c4cb20c6")
 		)
-		(model "walter/smd_dil/ssop-48.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/ssop-48.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4013,7 +4013,7 @@
 			(pintype "passive")
 			(uuid "299737c5-f1c3-41a2-b327-61cece384e35")
 		)
-		(model "walter/conn_jst-ph/b4b-ph-kl.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/conn_jst-ph/b4b-ph-kl.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11014,7 +11014,7 @@
 			(pintype "passive")
 			(uuid "c49dafdb-3e32-45f2-8752-4a9261dfaca6")
 		)
-		(model "walter/conn_jst-ph/b7b-ph-kl.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/conn_jst-ph/b7b-ph-kl.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11154,7 +11154,7 @@
 			(pintype "passive")
 			(uuid "77a85168-1ab5-40b3-9972-629c8716606e")
 		)
-		(model "walter/smd_inductors/inductor_smd_8x5mm.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/inductor_smd_8x5mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11604,7 +11604,7 @@
 		(at 110.49 117.856 -90)
 		(descr "SMT capacitor, 2220")
 		(property "Reference" "C51"
-			(at -0.856 2.99 -90)
+			(at -0.856 2.99 90)
 			(layer "B.SilkS")
 			(uuid "5ee773d4-777f-46a2-827b-f035889f4679")
 			(effects
@@ -11616,7 +11616,7 @@
 			)
 		)
 		(property "Value" "15u, 100v"
-			(at 0 -3.302 -90)
+			(at 0 -3.302 90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "fc57c8ae-2924-4985-a17f-f450835a92a9")
@@ -11629,7 +11629,7 @@
 			)
 		)
 		(property "Footprint" "w_smd_cap:c_2220"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04efbf00-e03b-4dce-9738-438fd8762429")
@@ -11641,7 +11641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc133672-e962-4161-9f29-f098a96a1c1d")
@@ -11653,7 +11653,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95afbc4b-cfad-49ac-9eb3-290d3c687f9d")
@@ -11745,7 +11745,7 @@
 			(pintype "passive")
 			(uuid "34258c78-ee7c-49de-b8c9-a6aa0eb9a551")
 		)
-		(model "walter/smd_cap/c_2220.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/smd_cap/c_2225.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13264,7 +13264,7 @@
 			(pintype "passive")
 			(uuid "c093a893-9204-44fe-9b9a-e2e3a22e16fb")
 		)
-		(model "walter/crystal/crystal_smd_5x3.2mm.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/crystal/crystal_smd_5x3.2mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13804,7 +13804,7 @@
 			(pintype "passive")
 			(uuid "5e63f383-27e0-4203-be6f-50c5260d9fda")
 		)
-		(model "walter/smd_trans/d2-pak-7.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/d2-pak-7.wrl"
 			(offset
 				(xyz 0 1.777999973 0)
 			)
@@ -14009,7 +14009,7 @@
 			(pintype "passive")
 			(uuid "f5be9967-ae0d-4320-94d0-052bfbc7b465")
 		)
-		(model "walter/smd_trans/d2-pak-7.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/d2-pak-7.wrl"
 			(offset
 				(xyz 0 1.777999973 0)
 			)
@@ -14219,7 +14219,7 @@
 			(zone_connect 2)
 			(uuid "5312d79f-ed67-470d-8e0f-45ec63e004c2")
 		)
-		(model "walter/smd_trans/d2-pak-7.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/d2-pak-7.wrl"
 			(offset
 				(xyz 0 1.777999973 0)
 			)
@@ -14577,7 +14577,7 @@
 			)
 		)
 		(property "Footprint" "CRF1:SMD-0603_c"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b60ed69-a350-4268-aeda-d945906c1c99")
@@ -14589,7 +14589,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79cbef46-c45f-46fa-a481-5be988c668c5")
@@ -14601,7 +14601,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db129128-98ca-47f9-97f9-45133dee803f")
@@ -14693,7 +14693,7 @@
 			(pintype "passive")
 			(uuid "b8a75113-8b09-4ded-99cf-9dfef1d78eec")
 		)
-		(model "walter/smd_cap/c_0603.wrl"
+		(model "${KIPRJMOD}/Libraries/3D/walter/smd_cap/c_0603.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22319,7 +22319,7 @@
 			(pintype "power_in")
 			(uuid "8082e3b8-497c-488b-823f-b5db31030dda")
 		)
-		(model "smd/SOT223.wrl"
+		(model "${KIPRJMOD}/3D/BLDC_48_3D/shapes3D/_usr_share_kicad_modules_packages3d_smd_SOT223.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
