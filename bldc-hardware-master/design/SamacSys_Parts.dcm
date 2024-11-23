@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 7466103
+D Wurth Elektronik, REDCUBE M3 Bush
+K
+F https://componentsearchengine.com/Datasheets/2/7466103.pdf
+$ENDCMP
+#
+#End Doc Library
