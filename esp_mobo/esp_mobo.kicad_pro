@@ -483,6 +483,23 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.4,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -498,6 +515,22 @@
       {
         "netclass": "12V",
         "pattern": "Net-(J16-Pin_2)"
+      },
+      {
+        "netclass": "12V",
+        "pattern": "NeoPowerIn"
+      },
+      {
+        "netclass": "5V",
+        "pattern": "Net-(J2-Pin_2)"
+      },
+      {
+        "netclass": "5V",
+        "pattern": "5VInput"
+      },
+      {
+        "netclass": "12V",
+        "pattern": "NeoPowerOut"
       }
     ]
   },
