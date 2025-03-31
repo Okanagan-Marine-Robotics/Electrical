@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/Modules/BMI088/KiCADv6/2024-11-27_21-40-12.kicad_sym")(options "")(descr ""))
+  (lib (name "TMCS1100")(type "KiCad")(uri "${KIPRJMOD}/Modules/TMCS1100A2QDR/KiCADv6/2024-10-24_20-23-57.kicad_sym")(options "")(descr ""))
+)
